@@ -1,0 +1,16 @@
+streamlit
+pandas
+matplotlib
+scipy
+Pillow
+pydicom
+opencv-python
+numpy
+datetime
+plotly
+gdcm
+pylibjpeg
+pylibjpeg-libjpeg
+pylibjpeg-openjpeg
+opencv-python-headless
+pip install streamlit-super-slider opencv-python-headless
