@@ -13,4 +13,3 @@ pylibjpeg
 pylibjpeg-libjpeg
 pylibjpeg-openjpeg
 opencv-python-headless
-pip install streamlit-super-slider opencv-python-headless
