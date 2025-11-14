@@ -1,0 +1,16 @@
+gdcm
+matplotlib
+numpy
+opencv-python-headless
+pandas
+pillow
+plotly
+pydicom
+pylibjpeg
+pylibjpeg-libjpeg
+pylibjpeg-openjpeg
+scipy
+streamlit
+reportlab
+openpyxl
+XlsxWriter
